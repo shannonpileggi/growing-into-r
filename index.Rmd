@@ -23,13 +23,15 @@ class: split-two white with-border
 
 .column.bg-main1[.content.center[
 
+<br/><br/>
+
 <img style="border-radius: 50%;" 
 src="img/RLadiesGlobal.png"
 width="150px"
 />
-
+<br/>
 # R-Ladies Global  
-
+<br/>
 ### [`r fontawesome::fa("twitter", fill = "#FFFFFF")` @RLadiesGlobal](https://twitter.com/rladiesglobal)<br/>
 
 ### [`r fontawesome::fa("paper-plane", fill = "#FFFFFF")` info@rladies.org](mailto:info@rladies.org)<br>
@@ -42,13 +44,15 @@ width="150px"
 
 .column.bg-main2[.content.center[
 
+<br/><br/>
+
 <img style="border-radius: 50%;" 
 src="img/r-ladies-miami.jpg"
 width="150px"
 />
-
+<br/>
 # R-Ladies Miami  
-
+<br/>
 ### [`r fontawesome::fa("twitter", fill = "#FFFFFF")` @RLadiesMiami](https://twitter.com/RLadiesMiami)<br/>
 
 ### [`r fontawesome::fa("paper-plane", fill = "#FFFFFF")` miami@rladies.org](mailto:miami@rladies.org)<br>
@@ -60,13 +64,13 @@ width="150px"
 class: split-two white with-border
 
 .column.bg-main2[.content.center[
-
+<br/><br/>
 <img style="border-radius: 50%;" 
 src="img/shannon-circle.png"
 width="150px"
 />
 
-# Dr. Shannon Pileggi <br><br>
+# Dr. Shannon Pileggi <br>
 
 ### [`r anicon::faa("twitter", animate="float", color = "#FFFFFF")` @PipingHotData](https://twitter.com/PipingHotData)<br/>
 
@@ -74,7 +78,7 @@ width="150px"
 
 ### [`r fontawesome::fa("link", fill = "#FFFFFF")` pipinghotdata.com](https://www.pipinghotdata.com/)<br/>
 
-### [`r fontawesome::fa("github", fill = "#FFFFFF")` https://github.com/shannonpileggi](https://github.com/shannonpileggi/)
+### [`r fontawesome::fa("github", fill = "#FFFFFF")` github.com/shannonpileggi](https://github.com/shannonpileggi/)
 
 ### [`r fontawesome::fa("linkedin", fill = "#FFFFFF")` linkedin.com/in/shannon-m-pileggi/](https://www.linkedin.com/in/shannon-m-pileggi/)
 
