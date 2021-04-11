@@ -157,7 +157,7 @@ class: bg-main5 split-70
 # Job interview <br><br>
 
 .row[.content.nopadding[
-.fig90[![](img/example_calendar3.png)]
+.fig90[![](img/calendar_1.png)]
 ]]
 
 ]]
