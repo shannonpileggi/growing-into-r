@@ -154,8 +154,6 @@ class: bg-main5 split-70
 
 .column.bg-main5[.content.vmiddle.center[
 
-# Job interview <br><br>
-
 .row[.content.nopadding[
 .fig90[![](img/calendar_1.png)]
 ]]
@@ -212,4 +210,39 @@ class: split-two with-thick-border border-white
 ---
 count: false
 class: gray-row1-col1 gray-row2-col1 gray-row2-col2
+
+
+---
+layout: false
+class: bg-main5 split-70 
+
+.column.bg-main5[.content.vmiddle.center[
+
+.row[.content.nopadding[
+.fig90[![](img/calendar_2.png)]
+]]
+
+]]
+
+.column.bg-main4[.content.vmiddle.center[
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this week&#39;s <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> screencast, I use tidytext to analyze what titles get claps on Medium posts. Practical guides on tensorflow/keras are the hottest, words like &quot;marketing&quot;, &quot;trends&quot; and &quot;industry&quot; don&#39;t get you far <a href="https://t.co/oNhZm40mpW">https://t.co/oNhZm40mpW</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/cxYO2MIIqz">pic.twitter.com/cxYO2MIIqz</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1069954125020958720?ref_src=twsrc%5Etfw">December 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]
+
+---
+layout: false
+class: bg-main5 split-70 
+
+.column.bg-main5[.content.vmiddle.center[
+
+.row[.content.nopadding[
+.fig90[![](img/calendar_3.png)]
+]]
+
+]]
+
+.column.bg-main4[.content.vmiddle.center[
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you’re having trouble with xaringan, storyboards in flexdashboqrd can also make pretty nice presentations depending on the type of content / message you are trying to convey <a href="https://t.co/IC3moe01v0">https://t.co/IC3moe01v0</a></p>&mdash; Emily Riederer (@EmilyRiederer) <a href="https://twitter.com/EmilyRiederer/status/1073001289339027456?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+]]
+
 
