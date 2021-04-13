@@ -2,10 +2,14 @@
 
 A talk for R-Ladies Miami on April 22, 2021.
 
+👀 [slides](https://shannonpileggi.github.io/growing-into-r/#1)
+
+
 🔗 based on the blog post [A job interview presentation inspired by the R community:
 How `#tidytuesday` and twitter helped me secure a job offer](https://www.pipinghotdata.com/posts/2020-08-30-a-job-interview-presentation-inspired-by-the-r-community/).
 
 ⚒️ original github repo with job interview project [github.com/shannonpileggi/Adelphi-tweets](https://github.com/shannonpileggi/Adelphi-tweets)
+
 
 
 ### Abstract
