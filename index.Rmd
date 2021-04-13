@@ -1,6 +1,6 @@
 ---
 title: "Growing into the R community"
-subtitle: "Consumer, creator, collaborator"
+subtitle: "Consumer, creator, contributor"
 author: "<br><br>Shannon Pileggi &nbsp;"
 date: "<br><br>2021-04-22, Updated: `r Sys.Date()`"
 output:
@@ -114,7 +114,7 @@ class: split-two with-thick-border border-white
 # 2 <br><br> CONSUMER
 ]]
 .row.bg-main1[.content.center.vmiddle[
-# 4 <br><br> COLLABORATOR
+# 4 <br><br> CONTRIBUTOR
 ]]
 ]
 ]]
@@ -203,7 +203,7 @@ class: split-two with-thick-border border-white
 # 2 <br><br> CONSUMER
 ]]
 .row.bg-main1[.content.center.vmiddle[
-# 4 <br><br> COLLABORATOR
+# 4 <br><br> CONTRIBUTOR
 ]]
 ]
 ]]
@@ -330,7 +330,7 @@ class: split-two with-thick-border border-white
 # 2 <br><br> CONSUMER
 ]]
 .row.bg-main1[.content.center.vmiddle[
-# 4 <br><br> COLLABORATOR
+# 4 <br><br> CONTRIBUTOR
 ]]
 ]
 ]]
@@ -365,7 +365,7 @@ class: split-two with-thick-border border-white
 # 2 <br><br> CONSUMER
 ]]
 .row.bg-main1[.content.center.vmiddle[
-# 4 <br><br> COLLABORATOR
+# 4 <br><br> CONTRIBUTOR
 ]]
 ]
 ]]
@@ -375,12 +375,64 @@ count: false
 class: gray-row1-col1 gray-row1-col2 gray-row2-col1
 
 
-??? INTRODUCE COLLABORATOR
+??? INTRODUCE contributor
 
+---
+layout: true
+class: split-three with-thick-border border-white
 
+.column[.content[
+.split-three[
+.row.bg-main5[.content.center.vmiddle[
+# How do I contribute?
+]]
+.row.bg-main4[.content.center.vmiddle[
+# Podcasts
+]]
+.row.bg-main2[.content.center.vmiddle[
+# TidyTuesday
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main4[.content.center.vmiddle[
+# YouTube
+]]
+.row.bg-main2[.content.center.vmiddle[
+# Slack
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Meet-ups
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main2[.content.center.vmiddle[
+# Twitter
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Conferences
+]]
+.row.bg-main4[.content.center.vmiddle[
+# Blogs
+]]
+]
+]]
+
+??? how am i a contributor
 
 ---
 
+---
+count: false
+class: gray-row1-col2 gray-row2-col1 gray-row2-col3 gray-row3-col1 
+
+
+---
 layout: true
 class: split-30 with-thick-border border-white
 
@@ -393,7 +445,7 @@ class: split-30 with-thick-border border-white
 # creator
 ]]
 .column.bg-main1[.content.center.vmiddle[
-# collaborator
+# contributor
 ]]
 ]
 ]]
@@ -413,7 +465,7 @@ count: false
 layout: false
 class: split-20 with-thick-border border-white
 
-.row.bg-main1[.content[
+.row.bg-main1[.content.vmiddle[
 # RESOURCES
 ]]
 
@@ -424,23 +476,39 @@ class: split-20 with-thick-border border-white
 <br/>
 ### [`r emo::ji("package")` Emi Tanaka {anicon}](https://github.com/emitanaka/anicon)<br/>
 
-### [`r fontawesome::fa("link", fill = "#FFFFFF")` Emi Tanaka kunoichi {xaringan} theme](https://github.com/emitanaka/ninja-theme)<br/>
+### [⚔   Emi Tanaka kunoichi {xaringan} theme](https://github.com/emitanaka/ninja-theme)<br/>
 
 ### [`r emo::ji("rocket")` Silvia Canelón deploying {xaringan}](https://silvia.rbind.io/2021-03-16-deploying-xaringan-slides/)<br/>
 
 ### [`r emo::ji("calendar")` Jay Jacobs `ggcal.R`](https://github.com/jayjacobs/ggcal/blob/master/R/ggcal.R)<br/>
 
 ]]
-.column.bg-main4[.content[
+.column.bg-main3[.content[
 ## Content
 <br/>
-### [`r emo::ji("pen")` Emily Riederer talk preparation](https://emilyriederer.netlify.app/post/writing-a-tech-talk/)<br/>
-### R-Ladies Seattle meet up
 
-### Podcast
+### [`r emo::ji("pen")` Emily Riederer talk preparation](https://emilyriederer.netlify.app/post/writing-a-tech-talk/)<br/>
+
+### [`r emo::ji("purple heart")` R-Ladies Seattle Meet-up: How to give a good talk](https://www.meetup.com/rladies-seattle/events/276427163/)
+
+### [`r emo::ji("podcast")` Build a Career in Data Science podcast Ep. 14: Joining the Community](https://open.spotify.com/episode/5f38UxOPD79hrwL9QwAPJ2?si=853e40d78db1453a)
 ]]
 ]
 ]]
 
- 
+---
+class: middle center bg-main1 
+<br><br>
+# THANK YOU FOR JOINING ME TODAY
+<br>
+### [`r anicon::faa("twitter", animate="float", color = "#FFFFFF")` @PipingHotData](https://twitter.com/PipingHotData)<br/>
 
+### [`r fontawesome::fa("paper-plane", fill = "#FFFFFF")` shannon@pipinghotdata.com](mailto:shannon@pipinghotdata.com)<br>
+
+### [`r fontawesome::fa("link", fill = "#FFFFFF")` pipinghotdata.com](https://www.pipinghotdata.com/)<br/>
+
+### [`r fontawesome::fa("github", fill = "#FFFFFF")` github.com/shannonpileggi](https://github.com/shannonpileggi/)
+
+### [`r fontawesome::fa("linkedin", fill = "#FFFFFF")` linkedin.com/in/shannon-m-pileggi/](https://www.linkedin.com/in/shannon-m-pileggi/)
+
+---
