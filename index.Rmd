@@ -152,19 +152,20 @@ class: bg-main5 split-20
 ]]
 
 ---
+class: middle left bg-main1 
+<br>
 
-keep this in?
+## Date: Oct 19, 2018
 
-Email
+## To: Mine Çetinkaya-Rundel
 
-To: Mine Çetinkaya-Rundel
+## From: Shannon Pileggi
 
-From: Shannon Pileggi
+<br>
 
-Date: Oct 19, 2018
+## _As far as the job search goes, I haven't found the right fit yet.  Now I am focusing more on fully remote companies.  In the meanwhile, I am starting to do some side projects to keep me active and build an online presence.  So hopefully my new blog will launch next week!  And I plan to get on twitter as well - I'm a bit scared of that!  I've been reading up on twitter etiquette so hopefully I don't do anything dumb._
 
-> As far as the job search goes, I haven't found the right fit yet.  Now I am focusing more on fully remote companies.  In the meanwhile, I am starting to do some side projects to keep me active and build an online presence.  So hopefully my new blog will launch next week!  And I plan to get on twitter as well - I'm a bit scared of that!  I've been reading up on twitter etiquette so hopefully I don't do anything dumb.
-
+??? keep this in?
 
 ---
 layout: false
@@ -311,6 +312,9 @@ class: bg-main5 split-70
 
 show tidytuesday content (but not compare to mine yet)
 
+best way to build content structure?
+
+[sheet](https://docs.google.com/spreadsheets/d/1IKF87Ab0GwLUhScodKLtg-qDuNGtZgoffXgZXXYey-U/edit?usp=sharing)
 
 ---
 layout: false
@@ -331,8 +335,25 @@ class: bg-main5 split-70
 
 
 ---
+layout: false
+class: middle 
 
-asking for help online??
+![](img/asking-for-help.svg)
+
+
+???
+
+does this fit here?
+
+.row[.content.nopadding[
+.img-fill[img/asking-for-help.svg]
+]]
+
+not working here
+background-image: ![](img/asking-for-help.svg)
+background-size: cover
+
+
 
 
 ---
@@ -377,29 +398,72 @@ layout: false
 
 show tidytuesday analysis next to mine, highlight original content
 
----
-
-summarize job interview presentation
 
 ---
+layout: false
+class: split-two 
 
-What i did well
+.column[.content[
+.split-two[
+.row.bg-main2[.center.vmiddle[
+### [`r fontawesome::fa("link")` Presentation](https://spileggi.shinyapps.io/Pileggi_presentation_shiny/)<br/>
+<img src="img/interview-presentation.PNG" width="500">
+]]
+.row.bg-main2[.center.vmiddle[
+### [`r fontawesome::fa("link")` Shiny 1](https://spileggi.shinyapps.io/tweet_lookup/)<br/>
+<img src="img/interview-shiny-1.PNG" width="500">
+]]
+]
+]]
 
-Researched my audience; was correct in assuming high level analysis & not get into the weeds
-
-Hosted flexdashboard presentation online - no need to email files
-
-Didn’t try to make a powerpoint presentation
-
-What i would have done differently
-
-Limited scope of analysis
-
-Change default colors on ggplots
+.column[.content[
+.split-two[
+.row.bg-main2[.center.vmiddle[
+### [`r fontawesome::fa("link")` Code](https://github.com/shannonpileggi/Adelphi-tweets)<br/>
+<img src="img/interview-github.PNG" width="500">
+]]
+.row.bg-main2[.center.vmiddle[
+### [`r fontawesome::fa("link")` Shiny 2](https://spileggi.shinyapps.io/tweet_network/)<br/>
+<img src="img/interview-shiny-2.PNG" width="500">
+]]
+]
+]]
 
 ---
 
 celebration gif
+
+
+
+---
+layout: false
+class: split-two white with-border
+
+.column.bg-main2[.content.left.center[
+<br><br>
+# WHAT I DID WELL
+<br><br>
+## Mirrored TidyTuesday analysis
+<br>
+## Researched audience
+<br>
+## Hosted presentation online 
+<br>
+## Didn’t use powerpoint
+
+]]
+
+.column.bg-main1[.content.left.center[
+<br><br>
+# WHAT I WOULD HAVE DONE DIFFERENTLY
+<br><br>
+## Limited scope
+<br>
+## Change ggplot default colors
+
+]]
+
+
 
 ---
 
@@ -594,4 +658,4 @@ class: middle center bg-main1
 
 ### [`r fontawesome::fa("linkedin", fill = "#FFFFFF")` linkedin.com/in/shannon-m-pileggi/](https://www.linkedin.com/in/shannon-m-pileggi/)
 
----
+
