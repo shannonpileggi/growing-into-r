@@ -151,6 +151,20 @@ class: bg-main5 split-20
 
 ]]
 
+---
+
+keep this in?
+
+Email
+
+To: Mine Çetinkaya-Rundel
+
+From: Shannon Pileggi
+
+Date: Oct 19, 2018
+
+> As far as the job search goes, I haven't found the right fit yet.  Now I am focusing more on fully remote companies.  In the meanwhile, I am starting to do some side projects to keep me active and build an online presence.  So hopefully my new blog will launch next week!  And I plan to get on twitter as well - I'm a bit scared of that!  I've been reading up on twitter etiquette so hopefully I don't do anything dumb.
+
 
 ---
 layout: false
@@ -180,6 +194,10 @@ class: bg-main5 split-70
 
 ]]
 
+
+---
+
+gif for stress or something?
 
 ---
 
@@ -290,6 +308,11 @@ class: bg-main5 split-70
 ]]
 
 ---
+
+show tidytuesday content (but not compare to mine yet)
+
+
+---
 layout: false
 class: bg-main5 split-70 
 
@@ -307,9 +330,17 @@ class: bg-main5 split-70
 ]]
 
 
+---
+
+asking for help online??
+
 
 ---
 
+any other content here before move on to creator?
+
+
+---
 layout: true
 class: split-two with-thick-border border-white
 
@@ -340,8 +371,35 @@ count: false
 class: gray-row1-col1 gray-row1-col2 gray-row2-col2
 
 
-??? INTRODUCE CREATOR
 
+---
+layout: false
+
+show tidytuesday analysis next to mine, highlight original content
+
+---
+
+summarize job interview presentation
+
+---
+
+What i did well
+
+Researched my audience; was correct in assuming high level analysis & not get into the weeds
+
+Hosted flexdashboard presentation online - no need to email files
+
+Didn’t try to make a powerpoint presentation
+
+What i would have done differently
+
+Limited scope of analysis
+
+Change default colors on ggplots
+
+---
+
+celebration gif
 
 ---
 
@@ -374,8 +432,25 @@ class: split-two with-thick-border border-white
 count: false
 class: gray-row1-col1 gray-row1-col2 gray-row2-col1
 
-
 ??? INTRODUCE contributor
+
+---
+layout: false
+
+show mara averick contributing to tidyverse, doesn't have to be a pull request
+
+---
+
+show 2 blog posts in 2018, then calendar flipping gif or something
+
+jump to 2020
+
+R-Ladies meet ups
+
+Blog posts
+
+WeAreRLadies rotating curator
+
 
 ---
 layout: true
@@ -432,8 +507,15 @@ count: false
 class: gray-row1-col2 gray-row2-col1 gray-row2-col3 gray-row3-col1 
 
 
+
+
 ---
-layout: true
+layout: false
+
+summary??
+
+---
+layout: false
 class: split-30 with-thick-border border-white
 
 .row[.content[
@@ -457,7 +539,6 @@ class: split-30 with-thick-border border-white
 ---
 count: false
 
-??? SUMMARY
 
 
 ---
@@ -492,6 +573,8 @@ class: split-20 with-thick-border border-white
 ### [`r emo::ji("purple heart")` R-Ladies Seattle Meet-up: How to give a good talk](https://www.meetup.com/rladies-seattle/events/276427163/)
 
 ### [`r emo::ji("podcast")` Build a Career in Data Science podcast Ep. 14: Joining the Community](https://open.spotify.com/episode/5f38UxOPD79hrwL9QwAPJ2?si=853e40d78db1453a)
+
+### [`r fontawesome::fa("twitter", fill = "#1DA1F2")` Twitter crowdsourcing calendar style](https://twitter.com/PipingHotData/status/1381061594898128902)
 ]]
 ]
 ]]
