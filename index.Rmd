@@ -198,10 +198,6 @@ class: bg-main5 split-70
 
 ---
 
-gif for stress or something?
-
----
-
 layout: true
 class: split-two with-thick-border border-white
 
@@ -227,11 +223,11 @@ class: split-two with-thick-border border-white
 ]
 ]]
 
-??? INTRODUCE CREATOR
+??? INTRODUCE CONSUMER
 
 
 ---
-count: false
+count: true
 class: gray-row1-col1 gray-row2-col1 gray-row2-col2
 
 
@@ -285,7 +281,7 @@ class: split-three with-thick-border border-white
 ??? what is R community
 
 ---
-count: false
+count: true
 class: hide-row1-col2 hide-row1-col3 hide-row2-col1 hide-row2-col2 hide-row2-col3 hide-row3-col1 hide-row3-col2 hide-row3-col3
 
 ---
@@ -336,24 +332,19 @@ class: bg-main5 split-70
 
 ---
 layout: false
-class: middle 
+class: bg-main5 split-70 
 
-![](img/asking-for-help.svg)
-
-
-???
-
-does this fit here?
+.column.bg-main5[.content.vmiddle.center[
 
 .row[.content.nopadding[
-.img-fill[img/asking-for-help.svg]
+.fig90[![](img/asking-for-help.svg)]
 ]]
 
-not working here
-background-image: ![](img/asking-for-help.svg)
-background-size: cover
+]]
 
-
+.column.bg-main4[.content.vmiddle.center[
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EMILY! this just blew my mind 🤯 thank you!</p>&mdash; Alison Presmanes Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1073002204158603264?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]]
 
 
 ---
@@ -431,7 +422,9 @@ class: split-two
 
 ---
 
-celebration gif
+class: center middle
+
+![](https://media.giphy.com/media/N1eKZPdggHGwM/giphy.gif)
 
 
 
@@ -498,12 +491,112 @@ class: gray-row1-col1 gray-row1-col2 gray-row2-col1
 
 ??? INTRODUCE contributor
 
+
+---
+layout: true
+class: split-two with-thick-border border-black
+
+.column[.content[
+.split-two[
+.row.bg-main5[.content.left.vmiddle[
+# You might be thinking 
+# something like...
+### Mara Averick, rstudio::conf(2018)
+### [Contributing to Tidyverse packages](https://www.rstudio.com/resources/rstudioconf-2018/contributing-to-tidyverse-packages/)
+]]
+.row[
+.img-fill[![](img/mara-first-contribution.PNG)]
+]]
+]]
+
+.column[.content[
+.split-two[
+.row.bg-main5[.content.center.vmiddle[
+.img-fill[![](img/mara-contributing-tidyverse.PNG)]
+]]
+.row.bg-main3[.content.center.vmiddle[
+# But contributing can be more than packages, pull requests, and issues!
+]]
+]
+]]
+
+---
+count: true
+class: hide-row2-col1 hide-row2-col2
+
+---
+count: false
+
+
 ---
 layout: false
+class: split-three with-thick-border border-white
 
-show mara averick contributing to tidyverse, doesn't have to be a pull request
+.column[.content[
+.split-three[
+.row.bg-main5[.content.center.vmiddle[
+# What is the R community?
+]]
+.row.bg-main4[.content.center.vmiddle[
+# Podcasts
+]]
+.row.bg-main2[.content.center.vmiddle[
+# TidyTuesday
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main4[.content.center.vmiddle[
+# YouTube
+]]
+.row.bg-main2[.content.center.vmiddle[
+# Slack
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Meet-ups
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main2[.content.center.vmiddle[
+# Twitter
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Conferences
+]]
+.row.bg-main4[.content.center.vmiddle[
+# Blogs
+]]
+]
+]]
 
 ---
+layout: true
+class: split-two with-thick-border border-white
+
+.row[.content[
+.split-two[
+.column.bg-main3[.content.center.vmiddle[
+.img-fill[![](img/first-two-posts.PNG)]
+]]
+.column.bg-main2[.content.center.vmiddle[
+# calendar flip
+]]
+]
+]]
+
+.row[.content.nopadding[
+# now
+]]
+
+---
+
+---
+layout: false
 
 show 2 blog posts in 2018, then calendar flipping gif or something
 
@@ -565,6 +658,7 @@ class: split-three with-thick-border border-white
 ??? how am i a contributor
 
 ---
+count: true
 
 ---
 count: false
@@ -599,10 +693,6 @@ class: split-30 with-thick-border border-white
 .row[.content.nopadding[
 .img-fill[![](img/PurpleSky.jpg)]
 ]]
-
----
-count: false
-
 
 
 ---
