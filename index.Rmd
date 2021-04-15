@@ -456,6 +456,11 @@ class: split-two white with-border
 
 ]]
 
+---
+re-using learnings in work & personal
+
+
+scaffolding to more open-ended projects?
 
 
 ---
@@ -515,7 +520,7 @@ class: split-two with-thick-border border-black
 .img-fill[![](img/mara-contributing-tidyverse.PNG)]
 ]]
 .row.bg-main3[.content.center.vmiddle[
-# But contributing can be more than packages, pull requests, and issues!
+# But contributing<br>can be more than <br>packages, pull requests, <br>and issues...
 ]]
 ]
 ]]
@@ -526,87 +531,6 @@ class: hide-row2-col1 hide-row2-col2
 
 ---
 count: false
-
-
----
-layout: false
-class: split-three with-thick-border border-white
-
-.column[.content[
-.split-three[
-.row.bg-main5[.content.center.vmiddle[
-# What is the R community?
-]]
-.row.bg-main4[.content.center.vmiddle[
-# Podcasts
-]]
-.row.bg-main2[.content.center.vmiddle[
-# TidyTuesday
-]]
-]
-]]
-
-.column[.content[
-.split-three[
-.row.bg-main4[.content.center.vmiddle[
-# YouTube
-]]
-.row.bg-main2[.content.center.vmiddle[
-# Slack
-]]
-.row.bg-main1[.content.center.vmiddle[
-# Meet-ups
-]]
-]
-]]
-
-.column[.content[
-.split-three[
-.row.bg-main2[.content.center.vmiddle[
-# Twitter
-]]
-.row.bg-main1[.content.center.vmiddle[
-# Conferences
-]]
-.row.bg-main4[.content.center.vmiddle[
-# Blogs
-]]
-]
-]]
-
----
-layout: true
-class: split-two with-thick-border border-white
-
-.row[.content[
-.split-two[
-.column.bg-main3[.content.center.vmiddle[
-.img-fill[![](img/first-two-posts.PNG)]
-]]
-.column.bg-main2[.content.center.vmiddle[
-# calendar flip
-]]
-]
-]]
-
-.row[.content.nopadding[
-# now
-]]
-
----
-
----
-layout: false
-
-show 2 blog posts in 2018, then calendar flipping gif or something
-
-jump to 2020
-
-R-Ladies meet ups
-
-Blog posts
-
-WeAreRLadies rotating curator
 
 
 ---
@@ -665,16 +589,77 @@ count: false
 class: gray-row1-col2 gray-row2-col1 gray-row2-col3 gray-row3-col1 
 
 
+---
+layout: true
+class: split-two with-thick-border border-white
+
+.row[.content[
+.split-three[
+.column.bg-main5[.content.center.vmiddle[
+.img-fill[![](img/first-two-posts-zoom.PNG)]
+]]
+.column.bg-main3[.content.center.vmiddle[
+.img-fill[![](https://media.giphy.com/media/xTiQywlOn0gKyz0l56/giphy.gif)]
+]]
+.column.bg-main2[.content.center.vmiddle[
+### moved 
+<br>
+### new job
+<br>
+### COVID-19
+]]
+]
+]]
+
+.row[.content[
+.split-four[
+.column.bg-main5[.content.center.vmiddle[
+.img-fill[![](https://media.giphy.com/media/jU8yHwHSAoHvepN65t/giphy.gif)]
+]]
+.column.bg-main1[.content.center.vmiddle[
+## since Aug 30, 2020 
+<br>
+## 9 blog posts
+]]
+.column[.content.nopadding[
+.img-fill[![](img/first-meet-up.PNG)]
+]]
+.column[.content.nopadding[
+.img-fill[![](img/curator-intro.jpg)]
+]]
+]
+]]
+---
 
 
 ---
 layout: false
+class: split-30 with-thick-border border-white bg-main1
 
-summary??
+
+###`> "contributing" == "asking questions"`
+###`> TRUE`
+
+--
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m also a huge convert to the church of making PRs to yourself. Start with an R Markdown project like a simple slide deck or a bookdown book, then get into the habit of every change is a branch + PR. Low cost, but teaches you a lot! <a href="https://t.co/Ee3tuoS4Ef">pic.twitter.com/Ee3tuoS4Ef</a></p>&mdash; Alison Presmanes Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1363104026460577793?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+summary of some sort?
+
+online interactions were hard for me at first
+
+asking questions was hard
+
+once i plugged into and really started engaging with people on slack & twitter, and giving back, i started to grow
+
+more connected to RLadies than before
 
 ---
 layout: false
 class: split-30 with-thick-border border-white
+
 
 .row[.content[
 .split-three[
