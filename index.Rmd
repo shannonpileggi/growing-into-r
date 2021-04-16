@@ -25,10 +25,10 @@ class: inverse
 background-image: url(img/vedrana-filipovic-wMQxgk2NhvI-unsplash.jpg)
 background-size: cover
 .title-slide-shannon[
-# Growing into R: Consumer, Creator, Contributor
+# Growing into the R Community
 # Shannon Pileggi
 # April 22, 2021
-<br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br><br><br>
 .right[
 ### Photo by [Vedrana Filipović](https://unsplash.com/photos/wMQxgk2NhvI)
 ]
@@ -116,7 +116,7 @@ class: split-two with-thick-border border-white
 
 .column[.content[
 .split-two[
-.row.bg-main5[.content.center.vmiddle[
+.row.bg-main4[.content.center.vmiddle[
 # 1 <br><br> BACKGROUND
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -165,9 +165,10 @@ class: bg-main5 split-20
 .column.bg-main5[.content.center[
 
 .row[.content.nopadding[
-.img-fill[![](img/residences_flat_3.png)]
+```{r, echo=FALSE, out.width="90%"}
+knitr::include_graphics("img/residences_flat_3.png")
+```
 ]]
-
 ]]
 
 ---
@@ -188,7 +189,7 @@ class: middle left bg-main1
 
 ---
 layout: false
-class: bg-main5 split-70 
+class: bg-main3 split-70 
 
 .column.bg-main3[.content.vmiddle.center[
 
@@ -222,7 +223,7 @@ class: split-two with-thick-border border-white
 
 .column[.content[
 .split-two[
-.row.bg-main5[.content.center.vmiddle[
+.row.bg-main4[.content.center.vmiddle[
 # 1 <br><br> BACKGROUND
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -260,7 +261,7 @@ class: split-three with-thick-border border-white
 .row.bg-main5[.content.center.vmiddle[
 # What is the R community?
 ]]
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # Podcasts
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -271,7 +272,7 @@ class: split-three with-thick-border border-white
 
 .column[.content[
 .split-three[
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # YouTube
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -291,7 +292,7 @@ class: split-three with-thick-border border-white
 .row.bg-main1[.content.center.vmiddle[
 # Conferences
 ]]
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # Blogs
 ]]
 ]
@@ -333,9 +334,9 @@ best way to build content structure?
 
 ---
 layout: false
-class: bg-main5 split-70 
+class: bg-main3 split-70 
 
-.column.bg-main5[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
 .row[.content.nopadding[
 .fig90[![](img/calendar_3.png)]
@@ -343,7 +344,7 @@ class: bg-main5 split-70
 
 ]]
 
-.column.bg-main4[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you’re having trouble with xaringan, storyboards in flexdashboqrd can also make pretty nice presentations depending on the type of content / message you are trying to convey <a href="https://t.co/IC3moe01v0">https://t.co/IC3moe01v0</a></p>&mdash; Emily Riederer (@EmilyRiederer) <a href="https://twitter.com/EmilyRiederer/status/1073001289339027456?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ]]
@@ -351,9 +352,9 @@ class: bg-main5 split-70
 
 ---
 layout: false
-class: bg-main5 split-70 
+class: bg-main3 split-70 
 
-.column.bg-main5[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
 .row[.content.nopadding[
 .fig90[![](img/asking-for-help.svg)]
@@ -361,14 +362,10 @@ class: bg-main5 split-70
 
 ]]
 
-.column.bg-main4[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EMILY! this just blew my mind 🤯 thank you!</p>&mdash; Alison Presmanes Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1073002204158603264?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ]]
 
-
----
-
-any other content here before move on to creator?
 
 
 ---
@@ -411,7 +408,7 @@ show tidytuesday analysis next to mine, highlight original content
 
 ---
 layout: false
-class: split-two 
+class: split-two bg-main2
 
 .column[.content[
 .split-two[
@@ -419,7 +416,7 @@ class: split-two
 ### [`r fontawesome::fa("link")` Presentation](https://spileggi.shinyapps.io/Pileggi_presentation_shiny/)<br/>
 <img src="img/interview-presentation.PNG" width="500">
 ]]
-.row.bg-main2[.center.vmiddle[
+.row.bg-main2[.center[
 ### [`r fontawesome::fa("link")` Shiny 1](https://spileggi.shinyapps.io/tweet_lookup/)<br/>
 <img src="img/interview-shiny-1.PNG" width="500">
 ]]
@@ -432,7 +429,7 @@ class: split-two
 ### [`r fontawesome::fa("link")` Code](https://github.com/shannonpileggi/Adelphi-tweets)<br/>
 <img src="img/interview-github.PNG" width="500">
 ]]
-.row.bg-main2[.center.vmiddle[
+.row.bg-main2[.center[
 ### [`r fontawesome::fa("link")` Shiny 2](https://spileggi.shinyapps.io/tweet_network/)<br/>
 <img src="img/interview-shiny-2.PNG" width="500">
 ]]
@@ -443,7 +440,7 @@ class: split-two
 
 class: center middle
 
-```{r, echo=FALSE, out.width="90%"}
+```{r, echo=FALSE, out.width="75%"}
 knitr::include_graphics("https://media.giphy.com/media/N1eKZPdggHGwM/giphy.gif")
 ```
 
@@ -479,9 +476,11 @@ class: split-two white with-border
 ]]
 
 ---
+background-image: url(img/austin-neill-ZahNAl_Ic3o-unsplash.jpg)
+background-size: cover
+
+???
 re-using learnings in work & personal
-
-
 scaffolding to more open-ended projects?
 
 
@@ -525,24 +524,28 @@ class: split-two with-thick-border border-black
 
 .column[.content[
 .split-two[
-.row.bg-main5[.content.left.vmiddle[
+.row.bg-main2[.content.left.vmiddle[
 # You might be thinking 
 # something like...
 ### Mara Averick, rstudio::conf(2018)
 ### [Contributing to Tidyverse packages](https://www.rstudio.com/resources/rstudioconf-2018/contributing-to-tidyverse-packages/)
 ]]
-.row[
-.img-fill[![](img/mara-first-contribution.PNG)]
+.row.bg-main5[.content[
+```{r, echo=FALSE, out.width="50%"}
+knitr::include_graphics("img/mara-first-contribution.PNG")
+```
 ]]
 ]]
 
 .column[.content[
 .split-two[
-.row.bg-main5[.content.center.vmiddle[
-.img-fill[![](img/mara-contributing-tidyverse.PNG)]
+.row.bg-main5[.content[
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("img/mara-contributing-tidyverse.PNG")
+```
 ]]
-.row.bg-main3[.content.center.vmiddle[
-# But contributing<br>can be more than <br>packages, pull requests, <br>and issues...
+.row.bg-main2[.content.right.vmiddle[
+# but contributing can be more<br> than packages, pull requests,<br> and issues.
 ]]
 ]
 ]]
@@ -564,7 +567,7 @@ class: split-three with-thick-border border-white
 .row.bg-main5[.content.center.vmiddle[
 # How do I contribute?
 ]]
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # Podcasts
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -575,7 +578,7 @@ class: split-three with-thick-border border-white
 
 .column[.content[
 .split-three[
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # YouTube
 ]]
 .row.bg-main2[.content.center.vmiddle[
@@ -595,7 +598,7 @@ class: split-three with-thick-border border-white
 .row.bg-main1[.content.center.vmiddle[
 # Conferences
 ]]
-.row.bg-main4[.content.center.vmiddle[
+.row.bg-main3[.content.center.vmiddle[
 # Blogs
 ]]
 ]
@@ -639,9 +642,9 @@ class: split-two with-thick-border border-white
 .img-fill[![](https://media.giphy.com/media/jU8yHwHSAoHvepN65t/giphy.gif)]
 ]]
 .column.bg-main1[.content.center.vmiddle[
-## since Aug 30, 2020 
+### since Aug 30, 2020 
 <br>
-## 9 blog posts
+### 9 blog posts
 ]]
 .column[.content.nopadding[
 .img-fill[![](img/first-meet-up.PNG)]
@@ -651,24 +654,74 @@ class: split-two with-thick-border border-white
 ]]
 ]
 ]]
----
-
 
 ---
-layout: false
-class: split-30 with-thick-border border-white bg-main1
-
-
-###`> "contributing" == "asking questions"`
-###`> TRUE`
-
---
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m also a huge convert to the church of making PRs to yourself. Start with an R Markdown project like a simple slide deck or a bookdown book, then get into the habit of every change is a branch + PR. Low cost, but teaches you a lot! <a href="https://t.co/Ee3tuoS4Ef">pic.twitter.com/Ee3tuoS4Ef</a></p>&mdash; Alison Presmanes Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1363104026460577793?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+count: true
+class: hide-row1-col2 hide-row1-col3 hide-row2-col1 hide-row2-col2 hide-row2-col3 hide-row2-col4  
 
 ---
+count: false
+class: hide-row1-col3 hide-row2-col1 hide-row2-col2 hide-row2-col3 hide-row2-col4  
 
-summary of some sort?
+---
+count: false
+class: hide-row2-col1 hide-row2-col2 hide-row2-col3 hide-row2-col4 
+
+---
+count: false
+class: hide-row2-col2 hide-row2-col3 hide-row2-col4 
+
+---
+count: false
+class: hide-row2-col3 hide-row2-col4 
+
+---
+count: false
+class: hide-row2-col4 
+
+---
+count: false
+
+---
+layout: true
+class: split-30 bg-main1
+
+.row[.content[
+## `> "contributing" == "asking questions"`
+## `> TRUE`
+]]
+
+.row[.content[
+.split-two[
+.column[.content.left[
+# No matter where you are
+# in your R learning journey
+# YOU are an important part 
+# of the #rstats community! 
+<br><br><br><br>
+### [@WeAreRLadies Feb 16, 2021](https://twitter.com/WeAreRLadies/status/1361660625718571010)
+]]
+.column[.content.right[
+```{r, echo=F, out.width="100%"}
+knitr::include_graphics("img/easy-pull-requests.png")
+```
+### [@WeAreRLadies Feb 19, 2021](https://twitter.com/apreshill/status/1363104026460577793?s=20)
+]]
+]
+]]
+
+---
+count: true
+class: hide-row2-col1 hide-row2-col2 
+
+---
+count: false
+class: hide-row2-col2 
+
+---
+count: false
+
+???
 
 online interactions were hard for me at first
 
