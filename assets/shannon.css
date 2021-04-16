@@ -1,0 +1,29 @@
+:root {
+    --main-color1: #006D77;
+    --main-color2: #42999B;
+    --main-color3: #83C5BE;
+    --main-color4: #B8DEDC;
+    --main-color5: #EDF6F9;
+    --text-color1: white;
+    --text-color2: white;
+    --text-color3: white;
+    --text-color4: white;
+    --text-color5: black;
+    --text-opacity: white;
+    --link-color: white;
+    --alert-color: #CF3C18;
+    --text-alert: white;
+    --code-background: #f8f8f8;
+    --code-inline-color: white;
+    --code-text-color: black;
+    --code-highlight: rgba(136, 57, 138, 0.3);
+    --color-opacity70: rgba(86,36,87,0.7);
+    --color-opacity50: rgba(86,36,87,0.5);
+    --color-opacity30: rgba(86,36,87,0.3);
+    --logo: url("https://emitanaka.github.io/ninja-theme/images/R-LadiesGlobal-transparent.png");
+}
+
+
+.title-slide-shannon{
+  color: white;
+}

@@ -6,8 +6,9 @@ date: "<br><br>2021-04-22, Updated: `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["kunoichi", "ninjutsu" , "assets/ninpo.css"]
+    css: ["kunoichi", "ninjutsu" , "assets/shannon.css"]
     self_contained: false
+    seal: false
     nature:
       ratio: "16:9"
       highlightStyle: github
@@ -19,6 +20,22 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+class: inverse 
+
+background-image: url(img/vedrana-filipovic-wMQxgk2NhvI-unsplash.jpg)
+background-size: cover
+.title-slide-shannon[
+# Growing into R: Consumer, Creator, Contributor
+# Shannon Pileggi
+# April 22, 2021
+<br><br><br><br><br>br><br><br><br><br><br><br><br><br><br><br>
+.right[
+### Photo by [Vedrana Filipović](https://unsplash.com/photos/wMQxgk2NhvI)
+]
+]
+
+
+---
 class: split-two white with-border
 
 .column.bg-main1[.content.center[
@@ -42,7 +59,7 @@ width="150px"
 
 ]]
 
-.column.bg-main2[.content.center[
+.column.bg-main3[.content.center[
 
 <br/><br/>
 
@@ -63,7 +80,7 @@ width="150px"
 
 class: split-two white with-border
 
-.column.bg-main2[.content.center[
+.column.bg-main3[.content.center[
 <br/><br/>
 <img style="border-radius: 50%;" 
 src="img/shannon-circle.png"
@@ -131,9 +148,11 @@ class: gray-row2-col1 gray-row1-col2 gray-row2-col2
 layout: false
 class: bg-main5 split-20 
 
-.column.bg-main4[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
-# Life changes <br><br>
+#  LIFE CHANGES <br>
+
+#  July 2018 <br>
 
 .row[.content.nopadding[
 .fig90[![](img/avery_carsen_circle.png)]
@@ -157,7 +176,7 @@ class: middle left bg-main1
 
 ## Date: Oct 19, 2018
 
-## To: Mine Çetinkaya-Rundel
+## To: Friend
 
 ## From: Shannon Pileggi
 
@@ -165,13 +184,13 @@ class: middle left bg-main1
 
 ## _As far as the job search goes, I haven't found the right fit yet.  Now I am focusing more on fully remote companies.  In the meanwhile, I am starting to do some side projects to keep me active and build an online presence.  So hopefully my new blog will launch next week!  And I plan to get on twitter as well - I'm a bit scared of that!  I've been reading up on twitter etiquette so hopefully I don't do anything dumb._
 
-??? keep this in?
+
 
 ---
 layout: false
 class: bg-main5 split-70 
 
-.column.bg-main5[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
 .row[.content.nopadding[
 .fig90[![](img/calendar_1.png)]
@@ -179,7 +198,7 @@ class: bg-main5 split-70
 
 ]]
 
-.column.bg-main4[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
 # Job interview<br>presentation instructions
 
@@ -290,9 +309,9 @@ count: false
 
 ---
 layout: false
-class: bg-main5 split-70 
+class: bg-main3 split-70 
 
-.column.bg-main5[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 
 .row[.content.nopadding[
 .fig90[![](img/calendar_2.png)]
@@ -300,7 +319,7 @@ class: bg-main5 split-70
 
 ]]
 
-.column.bg-main4[.content.vmiddle.center[
+.column.bg-main3[.content.vmiddle.center[
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this week&#39;s <a href="https://twitter.com/hashtag/tidytuesday?src=hash&amp;ref_src=twsrc%5Etfw">#tidytuesday</a> screencast, I use tidytext to analyze what titles get claps on Medium posts. Practical guides on tensorflow/keras are the hottest, words like &quot;marketing&quot;, &quot;trends&quot; and &quot;industry&quot; don&#39;t get you far <a href="https://t.co/oNhZm40mpW">https://t.co/oNhZm40mpW</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/cxYO2MIIqz">pic.twitter.com/cxYO2MIIqz</a></p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/1069954125020958720?ref_src=twsrc%5Etfw">December 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ]]
 
@@ -424,7 +443,10 @@ class: split-two
 
 class: center middle
 
-![](https://media.giphy.com/media/N1eKZPdggHGwM/giphy.gif)
+```{r, echo=FALSE, out.width="90%"}
+knitr::include_graphics("https://media.giphy.com/media/N1eKZPdggHGwM/giphy.gif")
+```
+
 
 
 
@@ -658,8 +680,13 @@ more connected to RLadies than before
 
 ---
 layout: false
-class: split-30 with-thick-border border-white
+class: split-70 with-thick-border border-white
+background-image: url(img/vedrana-filipovic-wMQxgk2NhvI-unsplash.jpg)
+background-size: cover
 
+.row[.content.nopadding[
+
+]]
 
 .row[.content[
 .split-three[
@@ -675,9 +702,7 @@ class: split-30 with-thick-border border-white
 ]
 ]]
 
-.row[.content.nopadding[
-.img-fill[![](img/PurpleSky.jpg)]
-]]
+
 
 
 ---
