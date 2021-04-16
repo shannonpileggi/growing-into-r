@@ -446,7 +446,6 @@ knitr::include_graphics("https://media.giphy.com/media/N1eKZPdggHGwM/giphy.gif")
 
 
 
-
 ---
 layout: false
 class: split-two white with-border
@@ -708,7 +707,7 @@ class: split-30 bg-main1
 ### [@WeAreRLadies Feb 16, 2021](https://twitter.com/WeAreRLadies/status/1361660625718571010)
 ]]
 .column[.content.right[
-```{r, echo=F, out.width="100%"}
+```{r, echo=F, out.width="90%"}
 knitr::include_graphics("img/easy-pull-requests.png")
 ```
 ### [@WeAreRLadies Feb 19, 2021](https://twitter.com/apreshill/status/1363104026460577793?s=20)
