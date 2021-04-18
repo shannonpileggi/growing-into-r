@@ -735,7 +735,7 @@ class: split-30 bg-main1
 ]]
 .column[.content.right[
 ```{r, echo=F, out.width="90%"}
-knitr::include_graphics("img/easy-pull-requests.png")
+knitr::include_graphics("img/easy-pull-requests.PNG")
 ```
 ### [@WeAreRLadies Feb 19, 2021](https://twitter.com/apreshill/status/1363104026460577793?s=20)
 ]]
