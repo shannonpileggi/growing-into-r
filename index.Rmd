@@ -421,12 +421,17 @@ count: false
 background-image: url(img/compare-4.svg)
 background-size: cover
 
+--
 .title-slide-shannon[
-<br><br><br>
+<br><br><br><br>
 .right[
-### [`r anicon::faa("link", animate="vertical", color = "#FFFFFF")` Technical details](https://www.pipinghotdata.com/posts/2020-08-30-a-job-interview-presentation-inspired-by-the-r-community/#what-i-did)
-]
-]
+### [technical details `r anicon::faa("link", animate="vertical", color = "#FFFFFF")`](https://www.pipinghotdata.com/posts/2020-08-30-a-job-interview-presentation-inspired-by-the-r-community/#what-i-did)
+
+### [@drob code `r fontawesome::fa("github", fill = "#FFFFFF")`](https://github.com/dgrtwo/data-screencasts/blob/master/medium-datasci.Rmd)
+
+### [@drob video `r fontawesome::fa("youtube", fill = "#FFFFFF")`](https://www.youtube.com/watch?v=C69QyycHsgE)
+
+]]
 
 ---
 layout: false
@@ -798,7 +803,7 @@ class: split-20 with-thick-border border-white
 .column.bg-main2[.content[
 ## Technical
 <br/>
-### [`r anicon::faa("box-open", animate="spin", color = "#FFFFFF")` Emi Tanaka {anicon}](https://github.com/emitanaka/anicon)<br/>
+### [`r anicon::faa("box-open", animate="tada", color = "#FFFFFF")` Emi Tanaka {anicon}](https://github.com/emitanaka/anicon)<br/>
 
 ### [⚔   Emi Tanaka kunoichi {xaringan} theme](https://github.com/emitanaka/ninja-theme)<br/>
 
