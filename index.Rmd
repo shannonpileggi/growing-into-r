@@ -421,6 +421,13 @@ count: false
 background-image: url(img/compare-4.svg)
 background-size: cover
 
+.title-slide-shannon[
+<br><br><br>
+.right[
+### [`r anicon::faa("link", animate="vertical", color = "#FFFFFF")` Technical details](https://www.pipinghotdata.com/posts/2020-08-30-a-job-interview-presentation-inspired-by-the-r-community/#what-i-did)
+]
+]
+
 ---
 layout: false
 class: split-two bg-main2
