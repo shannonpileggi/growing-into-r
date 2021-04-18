@@ -4,6 +4,7 @@
     --main-color3: #83C5BE;
     --main-color4: #EDF6F9;
     --main-color5: white;
+    --color-deeppurple: rgba(86,36,87,1);
     --text-color1: white;
     --text-color2: white;
     --text-color3: white;
@@ -26,4 +27,27 @@
 
 .title-slide-shannon{
   color: white;
+}
+
+
+/*-- Links/anchors --*/
+a, a > code {
+  line-height: 2rem;
+}
+/*-- Links/anchors upon hovering --*/
+a:hover { 
+  border-bottom: 2px solid white;
+}
+/*-- Prose Text --------*/
+/* controls size of prose text but not headings */
+.remark-slide-content {
+  font-size:          1.2em;
+}
+/*-- Inline code --*/
+/* 1rem = 16px, 1em = 20px, em here means it depends on the size of .remark-slide-content (above). For example, using 0.8em or 80% instead would make the text 80% as large as the .remark-slide-content text size (1.25em above) */
+.remark-code, .remark-inline-code {
+  font-size:          1em;
+  background-color: rgba(255,255,255,0.25);
+  border-radius: 1px;
+  padding: 0.1em 0.25em 0.1em 0.25em;
 }
