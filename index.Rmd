@@ -21,6 +21,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 class: inverse 
+count: false
 
 background-image: url(img/vedrana-filipovic-wMQxgk2NhvI-unsplash.jpg)
 background-size: cover
@@ -790,6 +791,79 @@ background-size: cover
 
 
 ---
+layout: true
+class: split-three with-thick-border border-white
+
+.column[.content[
+.split-three[
+.row.bg-main5[.content.center.vmiddle[
+# R community
+
+## (not comprehensive!)
+]]
+.row.bg-main3[.content.center.vmiddle[
+# Podcasts
+
+### [NSSD](https://nssdeviations.com/) &nbsp;&nbsp;  [Career](https://podcast.bestbook.cool/) <br> [Towards DS](https://towardsdatascience.com/podcast/home)   &nbsp;&nbsp; [Rweekly](https://rweekly.fireside.fm/)  
+
+
+]]
+.row.bg-main2[.content.center.vmiddle[
+# TidyTuesday
+
+### [GH repo](https://github.com/rfordatascience/tidytuesday)
+
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main3[.content.center.vmiddle[
+# YouTube
+
+### [R4DS](https://www.youtube.com/c/R4DSOnlineLearningCommunity/videos) &nbsp;&nbsp; [RLadies Global](https://www.youtube.com/c/RLadiesGlobal/videos) <br> [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ/videos) &nbsp;&nbsp; [Julia Silge](https://www.youtube.com/results?search_query=julia+silge)
+]]
+.row.bg-main2[.content.center.vmiddle[
+# Slack
+
+### [RLadies](https://rladies-community-slack.herokuapp.com/) &nbsp;&nbsp; [R4DS](https://www.rfordatasci.com/) &nbsp;&nbsp; [MiR](https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform)
+
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Meet-ups
+
+### [RLadies](https://rladies.org/)&nbsp;&nbsp; [R Users](https://www.meetup.com/pro/r-user-groups)
+
+]]
+]
+]]
+
+.column[.content[
+.split-three[
+.row.bg-main2[.content.center.vmiddle[
+# Twitter
+
+### [A book!](https://www.t4rstats.com/)
+]]
+.row.bg-main1[.content.center.vmiddle[
+# Conferences
+
+### [RStudio](https://www.rstudio.com/conference/) &nbsp;&nbsp; [useR](https://user2021.r-project.org/)
+
+]]
+.row.bg-main3[.content.center.vmiddle[
+# Blogs
+
+### [Rweekly](https://rweekly.org/) &nbsp;&nbsp; [R-bloggers](https://www.r-bloggers.com/)
+]]
+]
+]]
+
+---
+count: true
+
+---
 
 layout: false
 class: split-20 with-thick-border border-white
@@ -843,3 +917,24 @@ class: middle center bg-main1
 ### [`r fontawesome::fa("linkedin", fill = "#FFFFFF")` linkedin.com/in/shannon-m-pileggi/](https://www.linkedin.com/in/shannon-m-pileggi/)
 
 
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "https://github.com/shannonpileggi/growing-into-r") %>% 
+  meta_social(
+    title = "Growing into the R community",
+    description = paste(
+      "An R-Ladies Miami meet-up about starting as a consumer by leveraging the R community for a job interview, eventually leading to a contributor."
+    ),
+    url = "https://shannonpileggi.github.io/growing-into-r/#1",
+    image = "https://build-your-own-universe.netlify.app/social-card.png",
+    image_alt = paste(
+      "Title slide of Growing into the R Community (image of purple crocus)"
+    ),
+    og_type = "website",
+    og_author = "Shannon Pileggi",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@PipingHotdata",
+    twitter_site = "@PipingHotdata"
+  )
+```
