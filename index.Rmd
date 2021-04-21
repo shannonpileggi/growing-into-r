@@ -927,7 +927,7 @@ meta() %>%
       "An R-Ladies Miami meet-up about starting as a consumer by leveraging the R community for a job interview, eventually leading to a contributor."
     ),
     url = "https://shannonpileggi.github.io/growing-into-r/#1",
-    image = "https://build-your-own-universe.netlify.app/social-card.png",
+    image = "https://github.com/shannonpileggi/growing-into-r/blob/main/img/cover.PNG",
     image_alt = paste(
       "Title slide of Growing into the R Community (image of purple crocus)"
     ),
