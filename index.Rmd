@@ -927,7 +927,7 @@ meta() %>%
       "An R-Ladies Miami meet-up talk: Starting something new in R can be daunting, but there are many community resources that can help! In this presentation, I’ll discuss how I crafted a job interview presentation by making modifications on publicly available TidyTuesday code. This built the technical and confidence-boosting scaffolding I needed for more open-ended projects. The success of this experience inspired me to transition from my role as a consumer and creator to contributor to give back to the R community, which has been incredibly fulfilling. Despite social distancing, I feel more connected to the R community than ever before!"
     ),
     url = "https://shannonpileggi.github.io/growing-into-r/#1",
-    image = "https://github.com/shannonpileggi/growing-into-r/blob/main/img/cover.PNG",
+    image = "https://github.com/shannonpileggi/growing-into-r/blob/main/img/cover.PNG?raw=true",
     image_alt = paste(
       "Title slide of Growing into the R Community (image of purple crocus)"
     ),
