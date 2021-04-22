@@ -811,7 +811,7 @@ class: split-three with-thick-border border-white
 .row.bg-main2[.content.center.vmiddle[
 # TidyTuesday
 
-### [GH repo](https://github.com/rfordatascience/tidytuesday)
+### [repo](https://github.com/rfordatascience/tidytuesday) &nbsp;&nbsp;  [visualizations](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
 
 ]]
 ]
