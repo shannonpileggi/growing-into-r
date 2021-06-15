@@ -17,4 +17,4 @@ Starting something new in R can be daunting, but there are many community resour
 
 ---
 
-⚡abbreviated for an R-Ladies Philly lightning talk June 16, 2021 [Leveraging the R community for a job interview]()
+⚡ abbreviated for an R-Ladies Philly lightning talk June 16, 2021 _Leveraging the R community for a job interview_
