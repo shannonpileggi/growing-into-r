@@ -28,7 +28,7 @@ background-size: cover
 .title-slide-shannon[
 # Growing into the R Community
 # Shannon Pileggi
-# April 22, 2021
+# September 15, 2021
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 .right[
 ### Photo by [Vedrana Filipović](https://unsplash.com/photos/wMQxgk2NhvI)
@@ -62,18 +62,27 @@ width="150px"
 
 .column.bg-main3[.content.center[
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-<img style="border-radius: 50%;" 
-src="img/r-ladies-miami.jpg"
-width="150px"
-/>
-<br/>
 # R-Ladies Miami  
-<br/>
+
 ### [`r fontawesome::fa("twitter", fill = "#FFFFFF")` @RLadiesMiami](https://twitter.com/RLadiesMiami)<br/>
 
-### [`r fontawesome::fa("paper-plane", fill = "#FFFFFF")` miami@rladies.org](mailto:miami@rladies.org)<br>
+<br/><br/>
+
+# R-Ladies Coventry
+
+### [`r fontawesome::fa("twitter", fill = "#FFFFFF")` @RLadiesCoventry](https://twitter.com/RLadiesCoventry)<br/>
+
+<br/><br/>
+
+# R-Ladies Utrecht
+
+### [`r fontawesome::fa("twitter", fill = "#FFFFFF")` @RLadiesUtrecht](https://twitter.com/RLadiesUtrecht)<br/>
+
+<br/>
+
+
 
 ]]
 
@@ -677,7 +686,7 @@ class: split-two with-thick-border border-gray
 .column.bg-main1[.content.center.vmiddle[
 ### since Aug 30, 2020 
 <br>
-### 9 blog posts
+### 12 blog posts
 ]]
 .column[.content.nopadding[
 .img-fill[![](img/first-meet-up.PNG)]

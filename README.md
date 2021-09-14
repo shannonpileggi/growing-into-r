@@ -18,3 +18,7 @@ Starting something new in R can be daunting, but there are many community resour
 ---
 
 ⚡ abbreviated for an R-Ladies Philly lightning talk June 16, 2021 _Leveraging the R community for a job interview_
+
+---
+
+♻️ repeated on Sep 15, 2021 for a joint meet up with R-Ladies Coventry and R-Ladies Utrecht
